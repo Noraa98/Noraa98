@@ -34,13 +34,7 @@ A **responsive Angular web application** with authentication, shopping cart, che
 
 ---
 
-## 🔹 GitHub Stats
-![Noura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noraa98&show_icons=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noraa98&layout=compact&theme=radical)
-
-
----
 
 ## 🔹 Contact
 - GitHub: [https://github.com/Noraa98](https://github.com/Noraa98)  
