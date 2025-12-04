@@ -23,7 +23,7 @@ I'm a passionate developer committed to writing clean, efficient code and follow
 ## 💼 Technical Skills
 
 **Backend Development:**
-- C#, .NET 8, ASP.NET Core Web API
+- C#, .NET 8+, ASP.NET Core Web API
 - Entity Framework Core, LINQ
 - SQL Server, Database Design
 - Clean Architecture, Repository & Unit of Work Patterns
