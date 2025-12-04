@@ -1,45 +1,67 @@
-# Hi, I'm Noura 👋
+# Noura Ahmed | Full Stack Developer
 
-I'm a **Full Stack Developer** passionate about building scalable and maintainable web applications using **C#, .NET, Angular, and ASP.NET Core**.  
-I enjoy creating clean architecture solutions, modern UIs, and improving my skills daily.
+**Building scalable, maintainable web applications with modern technologies**
 
----
-
-## 🔹 About Me
-- 🌱 Always learning new technologies and improving my skills  
-- 💻 Focused on **Full Stack Development** with C# and Angular  
-- 🚀 Actively contributing to GitHub projects and keeping them updated  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/noura-ahmed-36779b304)
+Experienced Full Stack Developer specializing in **C#/.NET** and **Angular**, with a strong focus on clean architecture principles, RESTful API design, and creating intuitive user experiences.
 
 ---
 
-## 🔹 Featured Projects
+## 👨‍💻 Professional Summary
 
-### 1. [Talabat API](https://github.com/Noraa98/Talabat-API)
-A **RESTful API** built with **ASP.NET Core** and **Clean Architecture**.  
-- Modules: Products, Cart (In-Memory), Orders  
-- Features: JWT Authentication/Authorization, Specification Pattern, Pagination  
-- Tech: C#, ASP.NET Core, EF Core, SQL Server, AutoMapper, JWT  
+I'm a passionate developer committed to writing clean, efficient code and following industry best practices. My expertise spans the full development lifecycle—from database design and API development to crafting responsive, user-friendly interfaces.
 
-### 2. [Angular E-Commerce](https://Noraa98.github.io/E-Commerce/)
-A **responsive Angular web application** with authentication, shopping cart, checkout, and payment module.  
-- Features: Toastr notifications, LocalStorage cart, reusable components, and clean architecture  
-- Tech: Angular, TypeScript, RxJS, SCSS, Bootstrap/Tailwind CSS  
-
----
-
-## 🔹 Skills
-**Languages & Frameworks:** C#, .NET, ASP.NET Core, Angular, TypeScript, HTML, SCSS, Tailwind CSS, RxJS  
-**Tools & Dev Practices:** EF Core, JWT, REST APIs, Git/GitHub, GitHub Pages, Clean Architecture, Component-Based Architecture  
+**Core Competencies:**
+- Backend development with ASP.NET Core and Entity Framework Core
+- Frontend development with Angular and modern JavaScript frameworks
+- RESTful API design and implementation
+- Clean Architecture and design patterns
+- Authentication & Authorization (JWT, Identity)
+- Database design and optimization
 
 ---
 
+## 💼 Technical Skills
 
+**Backend Development:**
+- C#, .NET 8, ASP.NET Core Web API
+- Entity Framework Core, LINQ
+- SQL Server, Database Design
+- Clean Architecture, Repository & Unit of Work Patterns
+- Specification Pattern, AutoMapper
 
-## 🔹 Contact
-- GitHub: [https://github.com/Noraa98](https://github.com/Noraa98)  
-- LinkedIn: [https://www.linkedin.com/in/noura-ahmed-36779b304](https://www.linkedin.com/in/noura-ahmed-36779b304)  
+**Frontend Development:**
+- Angular 17+, TypeScript
+- RxJS, NgRx (State Management)
+- HTML5, SCSS/CSS3
+- Responsive Design (Bootstrap, Tailwind CSS)
+- Component-Based Architecture
+
+**Tools & Practices:**
+- Git/GitHub, GitHub Actions
+- RESTful API Design
+- JWT Authentication
+- Swagger/OpenAPI Documentation
+- Agile Methodologies
+- Code Review & Best Practices
 
 ---
 
-**Let's build amazing things together!**
+## 🎯 Current Focus
+
+- Deepening expertise in microservices architecture
+- Exploring advanced Angular patterns and state management
+- Contributing to open-source projects
+- Building production-ready applications with industry standards
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on challenging projects and discussing new opportunities.
+
+- **GitHub:** [github.com/Noraa98](https://github.com/Noraa98)
+- **LinkedIn:** [linkedin.com/in/noura-ahmed-36779b304](https://www.linkedin.com/in/noura-ahmed-36779b304)
+
+---
+
+💡 *Check out my repositories below to see what I'm working on!*
